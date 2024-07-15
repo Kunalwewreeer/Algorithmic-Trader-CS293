@@ -1,0 +1,4 @@
+5 Kunal SELL AMD $130 #10 5
+5 Kunal SELL AMD $100 #50 7
+6 Kunal BUY AMZN $50 #22 -1
+7 Kunal BUY GE $50 #10 -1
